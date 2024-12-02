@@ -16,7 +16,6 @@ print("2.subtration")
 print("3.multiplication")
 print("4.division")
 print("5.power")
-print("6.percentage")
 
 while True:
     choice=input("select the operations (1,2,3,4,5):")
